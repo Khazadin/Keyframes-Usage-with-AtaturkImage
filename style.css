@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.portrait {
+  width: max-content;
+  height: max-content;
+  margin-top: 10vh;
+  margin-left: 20vw;
+}
+.blocks {
+  background-color: red;
+  height: 4vh;
+  width: 2.5vw;
+}
+.blocks1 {
+  background-color: rgb(100, 101, 96);
+}
+.blocks2 {
+  background-color: rgb(201, 200, 198);
+}
+.blocks3 {
+  background-color: rgb(227, 224, 221);
+}
+.blocks4 {
+  background-color: rgb(185, 184, 180);
+}
+.blocks5 {
+  background-color: rgb(68, 67, 65);
+}
